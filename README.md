@@ -11,7 +11,7 @@ What it needs?
 - CNC_gcode-to-reprap-converter (https://github.com/HardRainbow/CNC_gcode-to-reprap-converter)
 
 How to use:
-- open the ***gcode_paverV01.py*** file and edit the "Line 11". It should direct the location of the CNC_gcode-to-reprap-converter location
+- open the ***gcode_paverV01.py*** file and edit the "Line 34". It should direct the location of the CNC_gcode-to-reprap-converter location
 - call the script by typing ***python gcode_paverV01.py***
 
 Description:
